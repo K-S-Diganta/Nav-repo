@@ -10,4 +10,10 @@ nav > ul> li > a{
     text-decoration: none;
     font-size: 25px;
     padding: 5px;
+    color: white;
+}
+nav > a{
+    background-color: blue;
+    
+    
 }
